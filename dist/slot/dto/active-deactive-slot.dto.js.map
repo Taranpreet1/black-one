@@ -1,0 +1,1 @@
+{"version":3,"file":"active-deactive-slot.dto.js","sourceRoot":"","sources":["../../../src/slot/dto/active-deactive-slot.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA6C;AAC7C,6CAA8C;AAE9C,MAAa,qBAAqB;CAUjC;AADG;IAPC,IAAA,4BAAU,EAAC;QACR,OAAO,EAAG,qBAAqB;KAClC,CAAC;IACD,IAAA,qBAAW,EAAC;QACT,WAAW,EAAC,cAAc;QAC1B,OAAO,EAAE,IAAI;KAChB,CAAC;;qDACa;AATnB,sDAUC"}

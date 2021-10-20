@@ -1,0 +1,1 @@
+{"version":3,"file":"active-deactive-court.dto.js","sourceRoot":"","sources":["../../../../src/modules/court/dto/active-deactive-court.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA6C;AAC7C,6CAA8C;AAE9C,MAAa,iBAAiB;CAS7B;AADC;IAPC,IAAA,4BAAU,EAAC;QACV,OAAO,EAAE,qBAAqB;KAC/B,CAAC;IACD,IAAA,qBAAW,EAAC;QACX,WAAW,EAAE,cAAc;QAC3B,OAAO,EAAE,IAAI;KACd,CAAC;;iDACc;AARlB,8CASC"}
